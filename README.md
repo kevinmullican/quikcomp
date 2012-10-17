@@ -1,0 +1,4 @@
+quikcomp
+========
+
+ye olde quikcomp
